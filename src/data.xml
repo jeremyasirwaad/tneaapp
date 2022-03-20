@@ -1,0 +1,8 @@
+<Auth uid="999941057058" rc="Y" tid="" ac="public" sa="public" ver="2.0" txn="asdasddasf123124" lk="MBni88mRNM18dKdiVyDYCuddwXEQpl68dZAGBQ2nsOlGMzC9DkOVL5s">
+    <Uses pi="n" pa="n" pfa="n" bio="n" bt="n" pin="n" otp="n" />
+    <Meta udc="" rdsId="" rdsVer="" dpId="" dc="" mi="" mc="" />
+    <Skey ci="">encrypted and encoded session key</Skey>
+    <Hmac>SHA-256 Hash of Pid block, encrypted and then encoded</Hmac>
+    <Data type="X|P">encrypted PID block</Data>
+    <Signature>Digital signature of AUA</Signature>
+</Auth>
